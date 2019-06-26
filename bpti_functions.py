@@ -302,7 +302,7 @@ def pkl_zip_load(filename):
     objs = {}
     while 1:
         try:
-            objs.update(cPickle.load(file, encoding='latin1'))
+            objs.update(pd.read_pickle(file))
         except EOFError:
             break
     file.close()
