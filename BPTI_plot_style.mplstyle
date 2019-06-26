@@ -1,0 +1,16 @@
+lines.markersize : 12
+axes.titlesize      : 24   # fontsize of the axes title
+axes.labelsize      : 24 # fontsize of the x any y labels
+ytick.labelsize      : 20 # fontsize of the tick labels
+xtick.labelsize      : 20 # fontsize of the tick labels
+ytick.direction      : in     # direction: in, out, or inout
+xtick.direction      : in     # direction: in, out, or inout
+legend.fontsize      : 20
+legend.markerscale   : 1.0    # the relative size of legend markers vs. original
+figure.titlesize : 28     # size of the figure title
+image.interpolation : none
+
+
+
+
+
